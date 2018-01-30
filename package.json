@@ -1,0 +1,24 @@
+{
+  "name": "alfs",
+  "version": "0.0.1",
+  "description": "Ant Looking for Food Simulation",
+  "main": "main.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcolucci/alfs.git"
+  },
+  "author": "Brice Colucci <brice.colucci@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bcolucci/alfs/issues"
+  },
+  "homepage": "https://github.com/bcolucci/alfs#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "pad": "^2.0.3"
+  }
+}
